@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### 陶器市おみくじ
+習った内容をもういちど復習し、１からおみくじアプリを作り直すとともに、回答にリンク先を付した。
+回答が出てくる際に、自動的にリンク先に変遷する仕様にしたかったができなかった。
+ＭＥＴＡタグをどのように使えばいいのかもう少し研究してみます。
